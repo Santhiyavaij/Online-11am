@@ -6,6 +6,7 @@ public class gitmain {
 		System.out.println("Employee name is Ben");
 		System.out.println("Employee is is 689");
 		System.out.println("Employee id is 689");
+		System.out.println("Employee location is Chennai");
 	}
 
 }
